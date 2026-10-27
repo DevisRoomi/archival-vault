@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.exe
+.DS_Store
+Thumbs.db
+backend/server.exe
+backend/vault-server.exe
+.env
+.idea/
+.vscode/
